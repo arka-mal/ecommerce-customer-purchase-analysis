@@ -55,14 +55,14 @@ python analysis.py
 ## Project Structure
 ```bash
 ecommerce_project/
-│── customers.csv # Dataset
-│── queries.sql # SQL queries
-│── analysis.py # Python analysis script
+│── sample.csv # Dataset
+│── ecommerce_queries.sql # SQL queries
+│── ecommerce_python.py # Python analysis script
+|── ecommerce_excel.xlsx # Excel File
 │── outputs/
-│ ├── bar_product_sales.png
-│ ├── pie_city_sales.png
-│ └── bar_top_customers.png
-│── README.md
+│ ├── bar_chart_product_sales.png
+│ └── pie_chart_city_revenue.png
+└── README.md
 ```
 
 ---
